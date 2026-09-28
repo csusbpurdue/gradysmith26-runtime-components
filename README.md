@@ -1,2 +1,2 @@
 # runtime-components
-Repository to manage and deploy my basic development environment.
+This repository contains my runtime component files and configuration files.
